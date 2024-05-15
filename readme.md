@@ -60,5 +60,5 @@ Ultimo deposito Realizado: R$100
 Valor do Saque: R$50
 Saldo Atual: R$50
 ##########Extrato##########
-
-
+```
+Este script é um projeto de teste e pode ser expandido para incluir recursos adicionais, como autenticação de usuário mais robusta, histórico de transações e suporte para múltiplos usuários.
