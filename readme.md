@@ -1,15 +1,3 @@
-# Opa, sou o Pakilhas
-| Rede Social |                                            |
-|-------------|-----------------------------|
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-carvalho-93927a220/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/pablo_ddh/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/channels/1235957312477466717/1235957313076985858)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pakilhas)
-
-[![DIO](https://img.shields.io/badge/D%20I%20O-%23FFF100?style=for-the-badge&logo=digitalocean&logoColor=black)](https://web.dio.me/users/pakilhas?tab=achievements)
-
-
-
 # Sistema Bancário em Python V2.0
 
 Este é um script em Python para simular operações básicas em um sistema bancário. Nesta versão, foram separadas as funções de saque, depósito e extrato, e adicionadas funcionalidades para cadastrar usuários e criar contas bancárias.
